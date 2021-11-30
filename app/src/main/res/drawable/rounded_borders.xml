@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+A drawable to design border of
+    activity_questions.xml option button
+-->
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent"/>
+    <corners android:radius="250dp"/>
+    <stroke android:color="@color/purple_200" android:width="3dp"/>
+</shape>

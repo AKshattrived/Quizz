@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+A drawable to design rounded corners in
+    activity_main.xml start quiz and bookmarks buttons
+    set_item.xml layout
+    activity_question.xml share and next buttons
+    activity_score.xml done button
+    loading.xml background for loading dialogue box
+-->
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="300dp"/>
+    <solid android:color="@color/purple_200"/>
+</shape>
